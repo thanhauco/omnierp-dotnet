@@ -1,0 +1,1 @@
+namespace OmniERP.Application.Orders; public class GetOrderQuery {}
