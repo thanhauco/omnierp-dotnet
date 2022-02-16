@@ -1,0 +1,1 @@
+namespace OmniERP.Infrastructure; public class AppDbContext {}
